@@ -129,7 +129,7 @@ https://github.com/9228883664/keycloak-otp-password-authenticator.git
 
 ======================================================================
 
-**5.	Validate APIs using sample payload
+#5.	Validate APIs using sample payload
 
 	Call token API as per below payload where new parameters added for OTP
 	
